@@ -53,7 +53,7 @@ Running the Application
 
 The application is packaged as ie.gmit.dip. The source code- the src folder and .jar file - simplifier.jar are included.
 
-The application is launched from the eclipse IDE, navigate to the Ruuner class in the src folder and choosing Run as a Java application (or hitting the run button in the menu),
+The application is launched from an IDE, navigate to the Ruuner class in the src folder and choosing Run as a Java application (or hitting the run button in the menu if any),
 
 OR
 
